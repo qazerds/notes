@@ -1,7 +1,0 @@
-#+TITLE: Test cryptage fichiers à travers git
-#+Author: Bertrand SIMON
-#+Date: <2017-03-13>
-
-* Commentaire d'initialisation
-Je créé ici un fichier pour voir de quoi il va avoir l'air sous github....
-* TODO Commentaires post-test
